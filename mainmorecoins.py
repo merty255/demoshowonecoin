@@ -65,7 +65,6 @@ def generatesnode(coinscounter, coinurlasstring):
 
 
 coinscounter = generatesnode(coinscounter, "https://www.corpus-nummorum.eu/coins/23106")
-coinscounter = generatesnode(coinscounter,"https://www.corpus-nummorum.eu/coins/18320")
 
 
 
@@ -90,7 +89,6 @@ return_value = agraph(nodes=nodes,
 
 st.write("Daten von :")
 st.write("https://www.corpus-nummorum.eu/coins/23106")
-st.write("https://www.corpus-nummorum.eu/coins/18320")
 
 if __name__ == '__main__':
 
