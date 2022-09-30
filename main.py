@@ -11,7 +11,7 @@ st.set_page_config(
 
 )
 
-st.write("Hier werden zwei Verknüpfte Datensätze dargestellt")
+st.write("Hier wird ein RDF Datensatz von CN dargestellt")
 
 coinscounter = 0
 
